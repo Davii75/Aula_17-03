@@ -36,9 +36,9 @@
 
 // - PARTE 4 - 
 
-// string oQueEuAcho;
+//string oQueEuAcho;
 //string textoCensurado;
-// onsole.Write("O que você acha de alunos que falam durante a aula? ");
+//Console.Write("O que você acha de alunos que falam durante a aula? ");
 //oQueEuAcho = Console.ReadLine();
 //textoCensurado = oQueEuAcho
 //                  .Replace("chato", "#@$%*!&")
